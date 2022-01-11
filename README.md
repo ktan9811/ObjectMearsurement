@@ -5,6 +5,6 @@
 정면에서 찍은 사진이 아닌 경우 오차율이 큰 편이며, 깊이 카메라를 활용해 피사체와의 거리 정보를 알고 있다면 더 좋은 로직으로 발전이 가능할 것임. 
 
 결과
-<img src= "https://user-images.githubusercontent.com/86091469/148943104-ae90c1b8-7b22-4a73-8d18-7ee7b9a3ecf2.jpg" = 100 x 100)
+<img width="{80%}" src="{https://user-images.githubusercontent.com/86091469/148943962-7eaa0558-e724-450f-a079-f8a5cf51c773.jpg}"/>
 
-<img ret= "https://user-images.githubusercontent.com/86091469/148943138-4f127fc6-7ca5-46fe-9776-8b1442bb7ee1.jpg" = 100 x 100)
+<img width="{100%}" src="{https://user-images.githubusercontent.com/86091469/148943956-b3aaf10e-5414-4327-9dd4-a435e88c97ee.jpg}"/>
